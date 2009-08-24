@@ -3,7 +3,6 @@ lib/URI/ImpliedBase.pm
 LICENSE
 Makefile.PL
 MANIFEST
-META.yml			Module meta-data (added by MakeMaker)
 README
 t/001_load.t
 t/002_abs.t
@@ -16,3 +15,4 @@ t/008_clear.t
 t/pod-coverage.t
 t/pod.t
 Todo
+META.yml                                 Module meta-data (added by MakeMaker)
